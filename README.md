@@ -1,6 +1,6 @@
 # Hi 👋, I'm Miguel Herrera
 
-### A passionate Javascript developer
+### A passionate Software Engineer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miguelgho&label=Profile views&color=0e75b6&style=flat" alt="miguelgho" /> </p>
 
